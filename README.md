@@ -3,6 +3,9 @@
 
     create 
 >>   createStore,
+>>   
 >>   combineReducers,
+>>   
 >>   bindeActionCreators,
+>>   
 >>   applyMiddleware
