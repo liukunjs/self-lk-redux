@@ -1,2 +1,7 @@
 # self-lk-redux
-self redux
+> self redux
+> create 
+>>  createStore,
+    combineReducers,
+    bindeActionCreators,
+    applyMiddleware
